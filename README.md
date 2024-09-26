@@ -2,7 +2,7 @@
 **Booquet** is a decentralized blockchain platform for secure event ticketing. Built with JavaScript, it prevents fraud, black market sales, and duplication. Features include smart contracts, personalized QR codes, NFT integration, and cryptocurrency rewards, ensuring a transparent and engaging experience for users and organizers.
 
 
-## :admission_tickets: Booquet - A Decentralized Blockchain for Event Ticketing and NFTs
+## 🎟️ : Booquet - A Decentralized Blockchain for Event Ticketing and NFTs
 **Booquet** is a fully decentralized, JavaScript-based blockchain platform designed for secure and transparent event ticketing and NFT management. Built from scratch without reliance on Ethereum or Solidity, this blockchain solution enables users to buy, verify, and manage event tickets while ensuring complete prevention of black market sales, ticket duplication, and fraud.
 ### :link: Key Features:
 **Decentralized Blockchain**: Peer-to-peer architecture with multiple independent nodes validating transactions and achieving consensus using custom-built Proof of Work (PoW) or Proof of Stake (PoS) mechanisms.
